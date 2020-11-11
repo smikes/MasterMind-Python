@@ -114,9 +114,11 @@ Test Evaluations (Answer is 123):
         
   Computer number is 242
 	Guess is 213
-	Correct evaluation: Green		Incorrect Evaluation: Green, Yellow
+	Correct evaluation: Green
+  Incorrect Evaluation: Green, Yellow
 		
   Computer number is 242
 	Guess is 443
-  Correct evaluation: Green		Incorrect Evaluation: Green, Yellow
+  Correct evaluation: Green
+  Incorrect Evaluation: Green, Yellow
 '''
